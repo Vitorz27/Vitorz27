@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on helping and create apps
 - 📫 How to reach me on twitter.com/vitorz27
 
-<img src="https://c.tenor.com/dPvcv8TQXJsAAAAC/business-cat-working.gif=" width="500" height="600">
+<img src="https://c.tenor.com/dPvcv8TQXJsAAAAC/business-cat-working.gif=" width="200" height="300">
 
 
 <!---
