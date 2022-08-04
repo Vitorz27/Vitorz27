@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on helping and create apps
 - 📫 How to reach me on twitter.com/vitorz27
 
-![screen-gif](./https://c.tenor.com/dPvcv8TQXJsAAAAC/business-cat-working.gif)
+![https://c.tenor.com/dPvcv8TQXJsAAAAC/business-cat-working.gif](./https://c.tenor.com/dPvcv8TQXJsAAAAC/business-cat-working.gif)
+
 
 <!---
 Vitorz27/Vitorz27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
