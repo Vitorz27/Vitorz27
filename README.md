@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on helping and create apps
 - 📫 How to reach me on twitter.com/vitorz27
 
-![screen-gif](https://user-images.githubusercontent.com/60588422/182736068-fb7f31cb-261a-4559-98b4-ba0f1c3eabe5.png)
+<img src="./(https://user-images.githubusercontent.com/60588422/182736068-fb7f31cb-261a-4559-98b4-ba0f1c3eabe5.png)" alt="My Project GIF" width="500" height="600">
 
 
 <!---
