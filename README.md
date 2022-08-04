@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning programming 
 - 💞️ I’m looking to collaborate on helping and create apps
 - 📫 How to reach me on twitter.com/vitorz27
+![image](https://user-images.githubusercontent.com/60588422/182736068-fb7f31cb-261a-4559-98b4-ba0f1c3eabe5.png)
+
 
 <!---
 Vitorz27/Vitorz27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
